@@ -1,0 +1,28 @@
+***
+PLEASE TYPE gcc -o a.out -lpthread godrone.c  TO CREATE EXECUTABLE AND
+./a.out
+TO COMPILE/RUN!!
+***
+
+
+
+States of drones : 
+
+S0, S1, S2, S3, S4, S5. 
+
+
+S0 (DRONE READY) --FLYING--> S1 (LOADING MISSION) -Recieved Mission-->
+
+S2(NAVIGATING) --Found Target--> S3(DELIVERING PACKAGE) --package delivered-->
+
+S4(NAVIGATING HOME) --preparing to land--> S5( LANDED.) --> EXIT
+
+
+The drones have a route number, so at any point in this flight, if the numbers
+match, the drones are going to cross paths. If this is the case, we will
+detect it, and perform a "dodge", in order to ensure the drones chose a
+different altitude or horizontal path to their target.
+
+ 
+
+

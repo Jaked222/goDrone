@@ -1,0 +1,82 @@
+Script started on Mon 27 Oct 2014 01:35:19 PM EDT
+timberlake {~/drone} > ./a.[K[K[K[Kls
+[0m[01;32ma.out[0m  godrone.c  outputscript
+[mtimberlake {~/drone} > ./a.out
+Drone Ready.
+Flying. Loading Mission
+Drone Ready.
+Navigating to target.
+Flying. Loading Mission
+Drone Ready.
+Navigating to target.
+Arrived at target. Delivering package
+Flying. Loading Mission
+Drone Ready.
+Arrived at target. Delivering package
+Flying. Loading Mission
+Navigating Home.
+Navigating to target.
+Drone Ready.
+Landed. Mission Complete.
+Navigating to target.
+Navigating Home.
+Flying. Loading Mission
+Arrived at target. Delivering package
+Drone Ready.
+Arrived at target. Delivering package
+Landed. Mission Complete.
+Flying. Loading Mission
+Navigating Home.
+Drone Ready.
+Navigating to target.
+Navigating Home.
+Navigating to target.
+Drone Ready.
+Landed. Mission Complete.
+Flying. Loading Mission
+Arrived at target. Delivering package
+Landed. Mission Complete.
+Drone Ready.
+Arrived at target. Delivering package
+Navigating to target.
+Flying. Loading Mission
+Navigating Home.
+Flying. Loading Mission
+Drone Ready.
+Navigating Home.
+Navigating to target.
+Arrived at target. Delivering package
+Landed. Mission Complete.
+Navigating to target.
+Flying. Loading Mission
+Landed. Mission Complete.
+Arrived at target. Delivering package
+Navigating Home.
+Arrived at target. Delivering package
+Navigating to target.
+Navigating Home.
+Landed. Mission Complete.
+Navigating Home.
+Arrived at target. Delivering package
+Landed. Mission Complete.
+Landed. Mission Complete.
+Navigating Home.
+Landed. Mission Complete.
+Checking for collision routes! IGNORE DUPILCATED COLLISION REPORTS! IE: DRONE 6 and 0, and DRONE 0 and 6.
+Drone 6 and 0 had a collision route! They dodged!
+Drone 9 and 0 had a collision route! They dodged!
+Drone 3 and 1 had a collision route! They dodged!
+Drone 5 and 1 had a collision route! They dodged!
+Drone 1 and 3 had a collision route! They dodged!
+Drone 5 and 3 had a collision route! They dodged!
+Drone 10 and 4 had a collision route! They dodged!
+Drone 1 and 5 had a collision route! They dodged!
+Drone 3 and 5 had a collision route! They dodged!
+Drone 0 and 6 had a collision route! They dodged!
+Drone 9 and 6 had a collision route! They dodged!
+Drone 0 and 9 had a collision route! They dodged!
+Drone 6 and 9 had a collision route! They dodged!
+Drone 4 and 10 had a collision route! They dodged!
+timberlake {~/drone} > ^Dexit
+
+Script done on Mon 27 Oct 2014 01:35:43 PM EDT
